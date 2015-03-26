@@ -2,3 +2,6 @@
 
 ## 大数の法則 (Law_of_Large_Number.R)
 詳細はhttp://www.jaysong.net/simulation/llm/
+
+## モンティ・ホール問題 (MontyHall.R)
+詳細はhttp://www.jaysong.net/simulation/mhp/
