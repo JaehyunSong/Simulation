@@ -6,5 +6,5 @@
 ## モンティ・ホール問題 (MontyHall.R)
 詳細はhttp://www.jaysong.net/simulation/mhp/
 
-## 中心極限定理 (Central Limit Theorem)
+## 中心極限定理 (CLT_Sim.R)
 詳細はhttp://www.JaySong.net/simulation/clt/
