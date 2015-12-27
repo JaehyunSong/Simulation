@@ -69,5 +69,3 @@ CLT_Sim <- function(dist = "Dice", par = NULL,
         }
         
 }
-
-CLT_Sim(dist = "Dice", sample = 50, trials = 2000)
