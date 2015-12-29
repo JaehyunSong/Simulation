@@ -17,7 +17,7 @@ Cjoint.N.Sim <- function(n.Attr, n.Level, n.Choice,
 
         library(doMC)
         library(foreach)
-        
+        registerDoMC(cores = detectCores())
                 
         temp.list <- foreach(i = 1:(n.Max - n.Min + 1)) %dopar% {
                 
